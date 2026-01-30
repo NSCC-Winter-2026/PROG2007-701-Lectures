@@ -1,0 +1,10 @@
+# Ignore executables (files without extensions)
+*
+!/**/
+!*.*
+
+*.o
+*.i
+*.s
+bin/
+obj/
